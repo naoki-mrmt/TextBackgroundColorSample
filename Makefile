@@ -1,0 +1,3 @@
+.PHONY:
+generate:
+	pod install
